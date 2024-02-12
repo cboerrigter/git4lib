@@ -15,5 +15,4 @@ more notes to get around errors
 even more notes to check error updates
 more testing with vpn and ssh stuff
 
-blahhhh blahhhh aiudbfuda
-againa gain 
+Changes made on 2/12.
